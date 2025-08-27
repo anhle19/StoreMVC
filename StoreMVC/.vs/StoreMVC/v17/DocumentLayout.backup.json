@@ -1,12 +1,87 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\template\\online-shop-website-template\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "StoreMVC\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "StoreMVC\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAApwFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:32:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "StoreMVC\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\Header.cshtml*",
+              "RelativeToolTip": "StoreMVC\\Views\\Shared\\Header.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:32:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\template\\online-shop-website-template\\index.html",
+              "RelativeDocumentMoniker": "..\\template\\online-shop-website-template\\index.html",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\template\\online-shop-website-template\\index.html",
+              "RelativeToolTip": "..\\template\\online-shop-website-template\\index.html",
+              "ViewState": "AgIAABEBAAAAAAAAAAApwA0EAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-27T04:32:35.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T04:30:19.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

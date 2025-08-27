@@ -10,6 +10,7 @@ namespace StoreMVC.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.Title = "Home page";
             return View();
         }
 
