@@ -77,3 +77,14 @@ D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.cspr
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.csproj.Up2Date
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.dll
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.pdb
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\EntityFramework.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\EntityFramework.SqlServer.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\EntityFramework.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\EntityFramework.SqlServer.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migrations.Initial.resources
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.csproj.GenerateResource.cache
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migrations.AddImageUrlCategory.resources

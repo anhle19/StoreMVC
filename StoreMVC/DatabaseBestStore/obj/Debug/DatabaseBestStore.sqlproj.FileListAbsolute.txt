@@ -1,0 +1,10 @@
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\bin\Debug\DatabaseBestStore.dacpac
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\bin\Debug\DatabaseBestStore.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\bin\Debug\DatabaseBestStore.pdb
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\DatabaseBestStore.sqlproj.AssemblyReference.cache
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\Model.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\refactor.xml
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\postdeploy.sql
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\predeploy.sql
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\DatabaseBestStore.dll
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\DatabaseBestStore\obj\Debug\DatabaseBestStore.pdb
