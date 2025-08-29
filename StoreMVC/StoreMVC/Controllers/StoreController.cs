@@ -10,7 +10,7 @@ namespace StoreMVC.Controllers
 {
     public class StoreController : Controller
     {
-        private ApplicationDbContext db = new ApplicationDbContext();
+        private AppDbContext db = new AppDbContext();
         private readonly int pageSize = 5;
 
         public ActionResult Index(int? page)
@@ -32,7 +32,7 @@ namespace StoreMVC.Controllers
                 ViewBag.CurrentPage = pageNumber;
 
                 ViewBag.Title = "Store page";
-                return View("Store", products);
+                return View(products);
             }
             catch (Exception ex)
             {

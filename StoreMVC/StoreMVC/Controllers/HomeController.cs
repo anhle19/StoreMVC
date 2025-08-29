@@ -1,5 +1,5 @@
 ﻿using StoreMVC.Models;
-using StoreMVC.Models.ViewModels;
+using StoreMVC.Models.View;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +10,7 @@ namespace StoreMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private ApplicationDbContext db = new ApplicationDbContext();
+        private AppDbContext db = new AppDbContext();
         public ActionResult Index()
         {
             try
@@ -26,7 +26,7 @@ namespace StoreMVC.Controllers
                                         .Take(4)
                                         .ToList();
 
-                HomeView homeView = new HomeView
+                HomeViewModel homeView = new HomeViewModel
                 {
                     Categories = categories,
                     AllProducts = allProducts,
@@ -56,9 +56,6 @@ namespace StoreMVC.Controllers
             return View();
         }
 
-        public ActionResult Error()
-        {
-            return View();
-        }
+        
     }
 }

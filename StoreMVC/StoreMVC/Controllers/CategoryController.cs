@@ -9,7 +9,7 @@ namespace StoreMVC.Controllers
 {
     public class CategoryController : Controller
     {
-        private ApplicationDbContext db = new ApplicationDbContext();
+        private AppDbContext db = new AppDbContext();
 
         [ChildActionOnly]
         public PartialViewResult _CategoryNavbar()
