@@ -123,7 +123,7 @@
                                 <a href="@Url.Action("ShoppingCart","Store")" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down mt-1"></i></a>
                                 <div class="dropdown-menu bg-primary rounded-0 border-0 m-0">
                                     <a href="@Url.Action("Index","Cart")" class="dropdown-item">Shopping Cart</a>
-                                    <a href="@Url.Action("Index","Checkout")" class="dropdown-item">Checkout</a>
+                                    <a href="@Url.Action("Index","Order")" class="dropdown-item">Checkout</a>
                                 </div>
                             </div>
                             <a href="contact.html" class="nav-item nav-link">Contact</a>
@@ -133,10 +133,7 @@
                                 <i class="fas fa-heart text-primary"></i>
                                 <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
                             </a>
-                            <a href="@Url.Action("Index","Cart")" class="btn px-0 ml-3">
-                                <i class="fas fa-shopping-cart text-primary"></i>
-                                <span class="badge text-secondary border border-secondary rounded-circle" style="padding-bottom: 2px;">0</span>
-                            </a>
+                            @Html.Action("_Cart","Cart")
                         </div>
                     </div>
                 </nav>

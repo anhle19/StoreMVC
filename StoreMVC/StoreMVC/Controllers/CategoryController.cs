@@ -9,10 +9,10 @@ namespace StoreMVC.Controllers
 {
     public class CategoryController : Controller
     {
-        private AppDbContext db = new AppDbContext();
+        private readonly AppDbContext db = new AppDbContext();
 
         [ChildActionOnly]
-        public PartialViewResult _CategoryNavbar()
+        public  PartialViewResult _CategoryNavbar()
         {
             List<Category> categories = db.Categories.ToList();
             return PartialView(categories);

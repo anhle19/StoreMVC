@@ -103,3 +103,5 @@ D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migr
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
 D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migrations.RemoveAppUserDob.resources
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migrations.AddOrderAndOrderDetail.resources
+D:\UEF\Lap trinh ung dung web\StoreMVC\StoreMVC\StoreMVC\obj\Debug\StoreMVC.Migrations.EditOrder.resources

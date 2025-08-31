@@ -25,5 +25,7 @@ namespace StoreMVC.Models
         //Ánh xạ đến các bảng tương ứng trong CSDL
         public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<OrderDetail> OrderDetails { get; set; }
     }
 }

@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\StoreMVC",
-    "\\StoreMVC\\StoreMVC",
-    "\\StoreMVC\\StoreMVC\\Resources"
+    ""
   ],
-  "SelectedNode": "\\StoreMVC\\StoreMVC.sln",
+  "SelectedNode": "\\StoreMVC.sln",
   "PreviewInSolutionExplorer": false
 }

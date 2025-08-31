@@ -159,12 +159,13 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CartController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
-    <Compile Include="Controllers\CheckoutController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StoreController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\CartHelper.cs" />
     <Compile Include="Migrations\202508280257054_Initial.cs" />
     <Compile Include="Migrations\202508280257054_Initial.Designer.cs">
       <DependentUpon>202508280257054_Initial.cs</DependentUpon>
@@ -181,6 +182,14 @@
     <Compile Include="Migrations\202508290523063_RemoveAppUserDob.Designer.cs">
       <DependentUpon>202508290523063_RemoveAppUserDob.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202508310420524_AddOrderAndOrderDetail.cs" />
+    <Compile Include="Migrations\202508310420524_AddOrderAndOrderDetail.Designer.cs">
+      <DependentUpon>202508310420524_AddOrderAndOrderDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202508310432199_EditOrder.cs" />
+    <Compile Include="Migrations\202508310432199_EditOrder.Designer.cs">
+      <DependentUpon>202508310432199_EditOrder.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AppDbContext.cs" />
     <Compile Include="Models\CartItem.cs" />
@@ -188,9 +197,13 @@
     <Compile Include="Models\Identity\AppUser.cs" />
     <Compile Include="Models\Identity\AppUserManager.cs" />
     <Compile Include="Models\Identity\AppUserStore.cs" />
+    <Compile Include="Models\Order.cs" />
+    <Compile Include="Models\OrderDetail.cs" />
     <Compile Include="Models\Product.cs" />
+    <Compile Include="Models\View\CartViewModel.cs" />
     <Compile Include="Models\View\HomeViewModel.cs" />
     <Compile Include="Models\View\LoginViewModel.cs" />
+    <Compile Include="Models\View\OrderViewModel.cs" />
     <Compile Include="Models\View\RegisterViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -420,12 +433,13 @@
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\Store\Index.cshtml" />
     <Content Include="Views\Cart\Index.cshtml" />
-    <Content Include="Views\Checkout\Index.cshtml" />
+    <Content Include="Views\Order\Index.cshtml" />
     <Content Include="Views\Store\Detail.cshtml" />
     <Content Include="Views\Shared\_CategoryNavbar.cshtml" />
     <Content Include="Views\Store\StoreByCategory.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Account\Register.cshtml" />
+    <Content Include="Views\Shared\_Cart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -469,6 +483,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202508290523063_RemoveAppUserDob.resx">
       <DependentUpon>202508290523063_RemoveAppUserDob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202508310420524_AddOrderAndOrderDetail.resx">
+      <DependentUpon>202508310420524_AddOrderAndOrderDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202508310432199_EditOrder.resx">
+      <DependentUpon>202508310432199_EditOrder.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

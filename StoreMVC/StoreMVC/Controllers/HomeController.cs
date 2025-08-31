@@ -2,7 +2,9 @@
 using StoreMVC.Models.View;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
@@ -10,21 +12,21 @@ namespace StoreMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private AppDbContext db = new AppDbContext();
-        public ActionResult Index()
+        private readonly AppDbContext db = new AppDbContext();
+        public async Task<ActionResult> Index()
         {
             try
             {
-                List<Category> categories = db.Categories.ToList();
-                List<Product> allProducts = db.Products
+                List<Category> categories = await db.Categories.ToListAsync();
+                List<Product> allProducts = await db.Products
                                     .Where(p => p.IsFeatured == false)
                                     .Take(8)
-                                    .ToList();
+                                    .ToListAsync();
 
-                List<Product> featuredProduct = db.Products
+                List<Product> featuredProduct = await db.Products
                                         .Where(p => p.IsFeatured == true)
                                         .Take(4)
-                                        .ToList();
+                                        .ToListAsync();
 
                 HomeViewModel homeView = new HomeViewModel
                 {

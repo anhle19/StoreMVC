@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|d:\\uef\\lap trinh ung dung web\\storemvc\\storemvc\\storemvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E267604-BD73-4413-B1F4-1C0F14AFF25E}|StoreMVC\\StoreMVC.csproj|solutionrelative:storemvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "StoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "StoreMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGsAAAAALDMzMzMLwH4AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "StoreMVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "StoreMVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-29T10:53:14.056Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-08-31T05:43:46.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CheckoutController.cs",
-              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\CheckoutController.cs",
-              "RelativeDocumentMoniker": "StoreMVC\\Controllers\\CheckoutController.cs",
-              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\CheckoutController.cs",
-              "RelativeToolTip": "StoreMVC\\Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "StoreMVC\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "StoreMVC\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowF4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:37:52.535Z",
+              "WhenOpened": "2025-08-31T05:42:03.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "StoreMVC\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Controllers\\CartController.cs",
-              "RelativeToolTip": "StoreMVC\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:37:15.277Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreMVC\\Views\\Order\\Index.cshtml",
+              "ToolTip": "D:\\UEF\\Lap trinh ung dung web\\StoreMVC\\StoreMVC\\StoreMVC\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "StoreMVC\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAkwH4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T05:41:56.704Z",
               "EditorCaption": ""
             }
           ]
